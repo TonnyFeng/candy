@@ -1,7 +1,18 @@
+Attention
+=========
+**Please note that we had to change the organization name of Candy from "amiadogroup" to "candy-chat".**
+
+This fork is just for not breaking users who forked the already existing repository.
+
+**Please update your .git/config to use "candy-chat" instead of "amiadogroup" as the "origin"!**
+
+If you have any questions, don't hesitate to ask in the mailinglist (link below).
+
 Candy — a JavaScript-based multi-user chat client
 ==================================================
 
-Visit the official project page: http://amiadogroup.github.com/candy
+
+Visit the official project page: http://candy-chat.github.com/candy
 
 [![Still Maintained](http://stillmaintained.com/amiadogroup/candy.png)](http://stillmaintained.com/amiadogroup/candy)
 
