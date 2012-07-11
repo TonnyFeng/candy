@@ -7,6 +7,7 @@
  *
  * Copyright:
  *   (c) 2011 Amiado Group AG. All rights reserved.
+ *   (c) 2012 Patrick Stadler & Michael Weibel. All rights reserved.
  */
 
 /** Class: Candy.Core
@@ -105,9 +106,7 @@ Candy.Core = (function(self, Strophe, $) {
 					if(typeof window.console !== undefined && typeof window.console.log !== undefined) {
 						console.log(str);
 					}
-				} catch(e) {
-					//console.error(e);
-				}
+				} catch(e) {}
 			};
 			self.log('[Init] Debugging enabled');
 		}
