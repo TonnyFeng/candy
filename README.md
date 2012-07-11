@@ -31,9 +31,9 @@ Features
 
 Plugins
 -------
-If you wish to add new functionality (to your candy installation) or contribute plugins, take a look at our [plugin repository](http://github.com/amiadogroup/candy-plugins).
+If you wish to add new functionality (to your candy installation) or contribute plugins, take a look at our [plugin repository](http://github.com/candy-chat/candy-plugins).
 
 Support & Community
 -------------------
-Take a look at our [FAQ](https://github.com/amiadogroup/candy/wiki/Frequently-Asked-Questions). If it doesn't solve your questions, your welcome to join our [Mailinglist on Google Groups](http://groups.google.com/group/candy-chat).
+Take a look at our [FAQ](https://github.com/candy-chat/candy/wiki/Frequently-Asked-Questions). If it doesn't solve your questions, you're welcome to join our [Mailinglist on Google Groups](http://groups.google.com/group/candy-chat).
 You don't need to have a Gmail account for it. 
